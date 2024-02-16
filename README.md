@@ -1,5 +1,5 @@
-# docker-compose.yml&nginx.conf
-Dcoker-compose config file & nginx config file
+# docker-compose.yml &n ginx.conf
+Dcoker-compose config file & nginx config file details
 
 docker-compose.yml
 ```
