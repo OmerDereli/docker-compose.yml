@@ -1,6 +1,7 @@
-# docker-compose.yml
+# docker-compose.yml&nginx.conf
 Dcoker-compose config file & nginx config file
 
+docker-compose.yml
 ```
 version: "3"
 
@@ -59,7 +60,7 @@ volumes:
   db-data:
   certbot-etc:
 ```
-
+Nginx.conf
 ---------------------------------------------------
 
 ```
